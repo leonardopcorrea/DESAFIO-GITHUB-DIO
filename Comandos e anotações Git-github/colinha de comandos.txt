@@ -1,0 +1,24 @@
+SHA1 = Secure Hash Algorithm / Encriptador de pastas
+
+ls = lista os arquivos daquela pasta
+
+ls -a = mostra os arquivos ocultos
+
+(ctrl + l) ou clear = limpa a tela do git
+
+cd (nome da pasta) = entra na pasta mencionada
+
+cd .. = volta uma pasta
+
+git add * = Adiciona todo conteudo da pasta para "Staged", pronto para fazer o commit
+
+git commit -m "instruções" = Adiciona ao commit, pronto para ir para o GitHub
+
+git push origin master = adiciona o conteudo para o GitHub
+
+git pull origin master = extrai o conteudo do GitHub para sua maquina
+
+git clone (link do codigo) = copia um codigo do GitHub para seu Git
+
+git remote -v = Mostra para onde o repositorio esta apontando, para seu original
+
